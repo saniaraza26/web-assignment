@@ -1,0 +1,20 @@
+@media screen and (max-width: 850px) {
+    .request-callback {
+        display: none;
+    }
+
+    h1 {
+        display: block;
+        text-align: center;
+    }
+
+    .hero-section {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .left-section {
+        margin-right: 120px;
+    }
+}
